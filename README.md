@@ -4,6 +4,7 @@
 
 This project is a R Shiny application developed to predict the clinical outcomes of COVID-19 patients. 
 It is based on a study titled "Prognostic factors of coronavirus disease 2019 (COVID-19) patients" which can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571674/). 
+
 This study identifies early prognostic factors upon admission to optimize the management of COVID-19 patients hospitalized in medical wards.
 
 ## Getting Started
