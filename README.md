@@ -42,7 +42,7 @@ The application uses patient data to predict outcomes based on various parameter
 The data has been anonymized and aggregated to ensure patient confidentiality.
 
 ## Contact
-
-You can reach me on LinkedIn [Ményssa Cherifa-Luron](https://www.linkedin.com/in/menyssacherifa/) 
-mail : cmenyssa@live.fr
-[personal website](https://mcherifaluron.com)
+ 
+- LinkedIn [Ményssa Cherifa-Luron](https://www.linkedin.com/in/menyssacherifa/) 
+- cmenyssa@live.fr
+- [personal website](https://mcherifaluron.com)
