@@ -44,6 +44,6 @@ The data has been anonymized and aggregated to ensure patient confidentiality.
 
 ## Contact
  
-- LinkedIn [Ményssa Cherifa-Luron](https://www.linkedin.com/in/menyssacherifa/) 
-- cmenyssa@live.fr
-- [personal website](https://mcherifaluron.com)
+- [LinkedIn](https://www.linkedin.com/in/menyssacherifa/) 
+- [Email](cmenyssa@live.fr)
+- [Personal Website](https://mcherifaluron.com)
