@@ -1,5 +1,5 @@
 # COVID-19 Prognostic Tool
-
+![Introduction au cours R Shiny](https://github.com/universdesdonnees/PredictCovid/blob/main/architecture.png?raw=true)
 ## About the Project
 
 This project is a R Shiny application developed to predict the clinical outcomes of COVID-19 patients. 
